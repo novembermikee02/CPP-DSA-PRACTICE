@@ -1,0 +1,1 @@
+{"name":"Local: Biryani_classes","url":"d:\\CPP-DSA-PRACTICE\\codechef\\Biryani_classes.cpp","tests":[{"id":1658348839918,"input":"4\n1 10\n1 15\n2 10\n2 15","output":"10\n15\n20\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP-DSA-PRACTICE\\codechef\\Biryani_classes.cpp","group":"local","local":true}
